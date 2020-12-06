@@ -15,17 +15,17 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the election show that:
-*There were "x" votes cast in the election.
-*The candidates were:
-  *Candidate 1
+* There were "x" votes cast in the election.
+* The candidates were:
+  * Candidate 1
      2
      3
 The candidate results were:
-  *Candidate 1 recieved "x%" of the vote and "y" number of votes.
+  * Candidate 1 recieved "x%" of the vote and "y" number of votes.
   2
   3
-  *The winner of the eletion was:
-    *Candidate 
+  * The winner of the eletion was:
+    * Candidate 
 
 ## Challenge Overview
 
