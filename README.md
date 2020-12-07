@@ -44,12 +44,6 @@ County Votes:
   -------------------------
   Largest County Turnout: Denver
   
-### Outputs
-     Terminal Output
-
-    ![Election Results Terminal Output](PyPoll_Terminal.PNG)
-
-  
 ## Audit-Summary
 This script can be used to audit election results anytime that data is collected in a .csv format. The results can include additional number of counties or additional number of candidates.
 If time or type of voting is included in the data (mail-in, absentee, in-person), these components can be further analyzed to determine where each candidate performed best.
